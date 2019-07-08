@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gpay</string>
+    <string name="enter_your_amount">Enter Your Amount</string>
+    <string name="button">Button</string>
+</resources>
